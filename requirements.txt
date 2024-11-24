@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-image
+pillow
+numpy
+pathlib2
+kornia
